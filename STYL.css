@@ -1,0 +1,36 @@
+
+
+#container{
+    width: 1200px ;
+    height: 500px ;
+    background-image: radial-gradient(#274aff, #0f095e);
+    position: relative;
+    border: black 2px double;
+    border-radius: 3px;
+}
+
+
+
+#box{
+
+    width: 300px ;
+    height: 300px;
+    background-image: radial-gradient(red,darkred);
+    position: absolute;
+    border: black 3px double;
+    border-radius: 5px;
+    padding: 10px;
+}
+
+/*#box:hover{
+    box-shadow: inset 0 0 30px #ff1cb2;
+    opacity: 0.7;
+    cursor: pointer;
+}
+
+#container:hover{
+    opacity: 0.5;
+    box-shadow: inset 0 0 30px #2c55ff;
+    cursor: pointer;
+}
+*/
